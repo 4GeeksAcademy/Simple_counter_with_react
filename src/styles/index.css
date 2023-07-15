@@ -16,3 +16,18 @@
     border: 2px solid #10101010;
     border-radius: 20%;
 }
+.click {
+    text-align: center;
+    margin-right: 20px;
+    margin-top: 10px;
+  }
+.label{
+    display: inline-flex;
+    text-align: center;
+    margin-left: 34%;
+    margin-top: 10px;
+  }
+.input {
+    border-radius: 10px;
+    margin-left: 10px;
+  }
